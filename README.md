@@ -1,5 +1,11 @@
 # 🌦 Project: Weather API
+[![Screenshot-20221023-063935.png](https://i.postimg.cc/7L3fyGGP/Screenshot-20221023-063935.png)](https://postimg.cc/3ywKXwFz)
 
+I built this project using HTML | CSS | JS | Weather API
+
+
+
+##Directions: 
 ### Goal: Enable your user to enter a city + country and return the temperature in Fahrenheit
 
 ### How to submit your code for review:
